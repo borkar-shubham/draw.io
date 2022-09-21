@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T08:07:31.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="XPFkdYt7cfUlyxNUB6aH" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T08:09:15.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="c4H0U2RoWpIOr2Iel_At" version="20.3.3" type="github">
   <diagram id="g7-dESjE2DK3tvBvqZ0U" name="Page-1">
     <mxGraphModel dx="1038" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -157,6 +157,12 @@
         </mxCell>
         <mxCell id="e1XHTu56FpRM70kIWXdr-53" value="S3 bucket&lt;br&gt;+&lt;br&gt;CloudFront" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AopnfxL0LD3TUCbjZWXk-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;api.abc.com&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="235" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AopnfxL0LD3TUCbjZWXk-3" value="abc.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="755" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
